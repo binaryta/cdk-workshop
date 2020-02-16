@@ -18,3 +18,9 @@ CloudFormationへDeployする
 ```sh
 $ cdk deploy
 ```
+
+### Destroy
+CloudFormationの削除
+```sh
+$ cdk destroy
+```
